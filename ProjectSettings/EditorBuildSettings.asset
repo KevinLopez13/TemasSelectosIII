@@ -6,7 +6,16 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/practica2.unity
-    guid: 2238aa57624a75e40a53e1db3f633699
+    path: Assets/Scenes/practica3_carrusel.unity
+    guid: 566815bc80029cd4ea538a60f12660c1
+  - enabled: 1
+    path: Assets/Scenes/practica3_a.unity
+    guid: a9e68c747db055947837278e0bc58726
+  - enabled: 1
+    path: Assets/Scenes/practica3_b.unity
+    guid: 40ecf3300721e0540b31c6fdb72f6ee3
+  - enabled: 1
+    path: Assets/Scenes/practica3_c.unity
+    guid: 2faa64f487e16e744b31104521f1b5a0
   m_configObjects:
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: aedee178563f36444ad623820e50836d, type: 2}
